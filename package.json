@@ -1,0 +1,17 @@
+{
+  "name": "supabasefilter",
+  "version": "1.0.0",
+  "description": "test supabase filtering for eldp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0",
+    "recharts": "^2.15.3"
+  }
+}
